@@ -1,0 +1,276 @@
+ /* .bg{
+    width: 100%;
+    height: 30%;
+    
+}  */
+
+*{
+    margin: 0;
+}
+.imgmain{
+    display: flex;
+    width: 100%;
+    height: 44rem;
+}
+
+.h2{
+    display: flex;
+    position: absolute;
+    top: 27rem;
+    right: 30rem;
+    font-size: 3rem;
+    color: rgba(255, 255, 255, 0.784);
+    /* font-family: "Edu QLD Hand", cursive;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal; */
+    /* font-family: "Raleway", sans-serif; */
+    
+
+    
+}
+.h3{
+    position: absolute;
+    top: 31rem;
+    right: 40rem;
+    font-size: 2rem;
+    color: rgba(255, 255, 255, 0.714);
+}
+.h4{
+    position: absolute;
+    top: 34rem;
+    right: 45rem;
+    font-size: 2rem;
+    color: rgba(255, 255, 255, 0.605);
+}
+
+
+.bg2{
+    display: flex;
+    background-color: rgba(255, 192, 203, 0.527);
+    width: 95rem;
+    height: 160rem;
+    display: flex;
+    justify-content: center;
+    position: relative;
+
+}
+.secondh2{
+    font-size: 3rem;
+    padding: 4rem;
+    color: rgba(255, 255, 255, 0.755);
+
+}
+.div2{
+    width: 60rem;
+    height: 30rem;
+    position: absolute;
+    top: 15rem;
+    right: 17rem;
+}
+
+.para{
+    display: flex;
+    display: flex;
+    top: 35rem;
+
+}
+.para_under{
+    width: 60rem;
+    height: 20rem;
+    position: absolute;
+    top: 50rem;
+    right: 16rem;
+    font-size: large;
+}
+
+.button{
+    display: flex;
+    /* width: 50rem;
+    height: 2rem;
+    position: absolute;
+    top: 70rem;
+    right: 70rem; */
+}
+.wedding{
+     /* / width: 50rem;
+    height: 2rem;
+    position: absolute;
+    top: 70rem;
+    right: 70rem; */
+    position: absolute;
+    top: 60rem;
+    right: 40rem;
+    text-align: center;
+    justify-content:space-around;
+    font-size: x-large;
+    width: 15rem;
+    height: 3rem;
+    background-color: black;
+    color: white;
+    text-decoration: none;
+} 
+
+.wedding:hover{
+    background-color: white;
+    color: black
+}
+
+/* .img2{
+    width: 20rem;
+    height: 10rem;
+    top: 30rem;
+} */
+ .imgrose{
+    position: absolute;
+    top: 65rem;
+    left: 0;
+    width:95rem;
+    height: 40rem;
+
+ }
+ .under{
+    position: absolute;
+    top: 83rem;
+    right: 35rem;
+    color: rgba(255, 255, 255, 0.677);
+    font-size: 4rem;
+ }
+ .under2{
+     position: absolute;
+    top: 90rem;
+    right: 43rem;
+    font-size: 2rem;
+    color: white;
+   
+ }
+ .the{
+    position: absolute;
+    top: 110rem;
+    right: 38rem;
+    color: white;
+    font-size: 3rem;
+
+ }
+ .tables{
+    width: 70rem;
+    height: 30rem;
+    position: absolute;
+    top: 115rem;
+    left: 12rem;
+ }
+ .tab1{
+    position: absolute;
+    top: 148rem;
+    left: 25rem;
+    font-size: 3rem;
+ }
+
+.tab2{
+    position: absolute;
+    top: 148rem;
+    left: 60rem;
+    font-size: 3rem;
+ }
+ .container{
+    width: 95rem;
+    height: 22rem;
+    background-color: lightpink;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+.h1tab1{
+    position: absolute;
+    top: 154rem;
+    left: 23rem;
+}
+.h1tab2{
+    position: absolute;
+    top: 156rem;
+    left: 23rem;
+}
+
+.h2tab1{
+    position: absolute;
+    top: 154rem;
+    left: 60rem;
+}
+.h2tab2{
+    position: absolute;
+    top: 156rem;
+    left: 60rem;
+}
+.last{
+    position: absolute;
+    top: 5rem;
+
+}
+.last_under{
+    position: absolute;
+    top: 11rem;
+}
+.lst{
+    position: absolute;
+    top: 15rem;
+    text-decoration: none;
+    font-size: 2rem;
+    /* width: 4rem; */
+    background-color: black;
+    color: white;
+}
+.lst:hover{
+    background-color: white;
+    color:black;
+}
+.black{
+    width: 95rem;
+    height: 3rem;
+    background-color: black;
+    position: relative;
+    top: 20rem;
+    display: flex;
+    justify-content: center;
+}
+.com{
+    position: absolute;
+    top: 1rem;
+    color: white;
+}
+.navu{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color:transparent;
+    height: 1rem;
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+    bottom: 0;
+    background-color: rgba(242, 239, 239, 0.519);
+    padding: 15px;
+    
+}
+body{
+    position: relative;
+}
+.a{
+    text-decoration: none;
+    width: 10rem;
+    background-color: white;
+    color: black;
+    display: flex;
+    justify-content: center;
+    
+}
+.a:hover{
+    background-color: black;
+    color: white;
+ 
+}
+
+
+
+
+ 
